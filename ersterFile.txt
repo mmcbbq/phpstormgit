@@ -5,4 +5,4 @@ master Vierte
 manuel Vierte
 ich bin am Laptop bei BBQ
 Ich arbeite von zuhause
-pull me
+pull me von manuel
